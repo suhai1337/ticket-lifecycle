@@ -29,7 +29,7 @@ This activity displays the lifecycle of a ticket from intake to resolution withi
 <img src="https://i.imgur.com/6skODQU.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+A user submitting a ticket would look something like this. In this example a user named CEO is saying that the online website is down.
 </p>
 <br />
 
@@ -37,7 +37,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/r0R0QMB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+After the ticket has been submitted, it will be put into the database where people who have access to the tickets can read and assign them to the proper team or individual. After being assigned, they will be given proper assignment to an individual, correct priority level and SLA and responded to.
 </p>
 <br />
 
@@ -45,6 +45,6 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 <img src="https://i.imgur.com/cB5HgRs.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
+In this example, "Suhai" assigns the task to Nathan and also changes priority level and also the SLA. He gives a comment on how and who will handle the situation and is then followed up by Nathan. Since Nathan is assigned the ticket, after he has solved the issue, he would resolve the ticket and the ticket would then be closed.
 </p>
 <br />
